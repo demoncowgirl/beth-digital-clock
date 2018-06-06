@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Passion+One|Share+Tech+Mono');
+
+/* font-family: 'Share Tech Mono', monospace;
+font-family: 'Passion One', cursive; */
+
+h1{
+  font-style: "Passion One";
+font-size: 42px;
+}
+
+.text-info{
+  font-style: "Share Tech Mono", monospace;
+  font-size: 36px;
+}
